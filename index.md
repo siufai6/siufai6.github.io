@@ -6,5 +6,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -->
 
 
-[KYC page](https://github.com/siufai6/siufai6.github.io/edit/main/cityline.md)
+[introduction page](https://siufai6.github.io/cityline)
 
