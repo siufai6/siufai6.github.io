@@ -10,4 +10,4 @@ If I'm not working, I like to jog.  I ran 🏃‍♀️ in the UNICEF 10 K race 
 
 I am very interested in the financial markets 📈 so I write programs in python to backtest stock trading algorithms (let me tell you there is no crystal ball).  
 
-I just moved to UK in Sept 2022 and am exploring new oppurtunities. 
+I just moved to the UK in Sept 2022 and am exploring new oppurtunities.  The chance to learn new things (technology/business) is more important than the job title!
